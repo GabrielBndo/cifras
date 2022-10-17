@@ -168,14 +168,15 @@ input[type='radio']{
 
 
 #btn-apagar {
-    border: 3.5px solid rgb(165, 206, 225);
+    border: 3.5px solid rgb(10, 131, 20);
     border-radius: 15px;
     font-size: 110%;
     padding: 8%;
     padding-left: 10%;
     padding-right: 10%;
-    background-color: rgb(180, 163, 226);
+    background-color:white;
     font-family: 'Antic', sans-serif;
+    color: black;
 }
 
 .none {
